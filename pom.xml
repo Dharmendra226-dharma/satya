@@ -30,7 +30,7 @@
                   http://localhost:9000
                 </sonar.host.url>
                 <sonar.token>
-                 sqp_e58101fefd3623d9b286c5c3bbeb83974b2aad13
+                 sqp_dbfbc98e39bea222070003799b2733ba14801c24
                 </sonar.token>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>Dharma226@</sonar.password>
